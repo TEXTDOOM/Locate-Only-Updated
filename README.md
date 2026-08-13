@@ -22,4 +22,4 @@ Fabric API 0.155.2
 
 Cloth Config API >26.1.154
 
-Orginal Project:[GitHub - AS50SB/Locateo-for-1.21.11: /locateo for 1.21.11 fabric · GitHub](https://github.com/AS50SB/Locateo-for-1.21.11)
+Legacy Project:[GitHub - AS50SB/Locateo-for-1.21.11: /locateo for 1.21.11 fabric · GitHub](https://github.com/AS50SB/Locateo-for-1.21.11)
