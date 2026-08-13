@@ -1,0 +1,14 @@
+{
+  "locateo.config.title": "LocateOnly 配置",
+  "locateo.config.category.general": "常規",
+  "locateo.config.command.locateo": "啟 /locateo",
+  "locateo.config.command.locateonly": "啟 /locateonly",
+  "locateo.config.command.lo": "啟 /lo",
+  "locateo.config.updated": "令 %s 已設為 %s",
+  "locateo.config.no_changes": "令未改，無需重載",
+  "locateo.config.saved_and_reloaded": "令已存且重載",
+  "locateo.config.already_set": "令 %s 已為 %s，無需更",
+  "locateo.command.only_player": "此令惟玩家可執",
+  "locateo.command.failed": "定位失: %s",
+  "locateo.command.executed": "令已行"
+}

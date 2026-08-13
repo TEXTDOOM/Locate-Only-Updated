@@ -1,0 +1,14 @@
+{
+  "locateo.config.title": "LocateOnly Configuration",
+  "locateo.config.category.general": "General",
+  "locateo.config.command.locateo": "Enable /locateo",
+  "locateo.config.command.locateonly": "Enable /locateonly",
+  "locateo.config.command.lo": "Enable /lo",
+  "locateo.config.updated": "Command %s has been set to %s",
+  "locateo.config.no_changes": "No changes detected, reload skipped",
+  "locateo.config.saved_and_reloaded": "Config saved and commands reloaded",
+  "locateo.config.already_set": "Command %s is already %s, no change needed",
+  "locateo.command.only_player": "This command can only be executed by a player",
+  "locateo.command.failed": "Locate failed: %s",
+  "locateo.command.executed": "Command executed"
+}

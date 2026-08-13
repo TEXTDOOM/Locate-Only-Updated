@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "locateo",
+	"version": "${version}",
+	"name": "Locate Only",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"E&B",
+		"Deepseek"
+	],
+	"contact": {
+		"homepage": "https://www.mcmod.cn/class/24338.html",
+		"sources": "https://github.com/TEXTDOOM/Locate-Only-Updated"
+	},
+	"license": "MIT",
+	"icon": "assets/locateo/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"org.eablo.LocateOnly"
+		]
+	},
+	"mixins": [
+		"locateo.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.1",
+		"java": ">=25",
+		"fabric-api": "*",
+		"cloth-config": "*"
+	}
+}
